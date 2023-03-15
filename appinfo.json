@@ -1,0 +1,11 @@
+{
+  "id": "com.flowplayer",
+  "version": "0.0.1",
+  "vendor": "Flowplayer AB",
+  "type": "web",
+  "main": "index.html",
+  "title": "Flowplayer Demo",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "disableBackHistoryAPI": true
+}
